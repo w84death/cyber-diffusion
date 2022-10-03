@@ -14,7 +14,7 @@ end
                                       
 function drawFPS()             
 
-    love.graphics.setColor(239,236,241)
+    love.graphics.setColor(255,255,255)
     love.graphics.print(
       "FPS:\n"..math.floor(fps),
       fps_x,fps_y)
