@@ -5,9 +5,9 @@ MS-DOS GAME on LoveDOS
 
 
 # Screens
-![Screen 1](screenshot_1.png)
-![Screen 2](screenshot_2.png)
-![Screen 3](screenshot_3.png)
+![Screen 1](screenshoot_1.png)
+![Screen 2](screenshoot_2.png)
+![Screen 3](screenshoot_3.png)
 
 # Hardware requiments
 
